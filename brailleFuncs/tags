@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BrailleToMessage	brailleFuncs.go	/^func BrailleToMessage(s string) {$/;"	f	language:Go
+MessageToBraille	brailleFuncs.go	/^func MessageToBraille(s string) {$/;"	f	language:Go
+alph	brailleFuncs.go	/^const alph = " a c bif e d hjg k m lsp o n rtq              w  u x v   z y    "$/;"	c	language:Go
+brailleFuncs	brailleFuncs.go	/^package brailleFuncs$/;"	p	language:Go
+brailleToNum	brailleFuncs.go	/^func brailleToNum(name string) ([]string, []int64) {$/;"	f	language:Go
+numToBraille	brailleFuncs.go	/^func numToBraille(num int64) string {$/;"	f	language:Go
+printBraille	brailleFuncs.go	/^func printBraille(b []string) {$/;"	f	language:Go
+terminalWidth	brailleFuncs.go	/^func terminalWidth() int {$/;"	f	language:Go
